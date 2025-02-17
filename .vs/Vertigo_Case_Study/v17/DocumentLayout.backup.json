@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|c:\\users\\selim\\desktop\\games\\dream_games\\vertigo_case_study\\assets\\scripts\\displayers\\spinnumbersdisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displayers\\spinnumbersdisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\managers\\wheelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\wheelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\managers\\spinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\spinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\managers\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\managers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|c:\\users\\selim\\desktop\\games\\dream_games\\vertigo_case_study\\assets\\scripts\\displayers\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displayers\\itemcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\objects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|c:\\users\\selim\\desktop\\games\\dream_games\\vertigo_case_study\\assets\\scripts\\constants\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\constants\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\displayers\\wheelslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displayers\\wheelslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\assets\\scripts\\displayers\\wheeldisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0E6B88-CF41-5F40-0C8B-02F69EBF53F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displayers\\wheeldisplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpinNumbersDisplayer.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\SpinNumbersDisplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Displayers\\SpinNumbersDisplayer.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\SpinNumbersDisplayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Displayers\\SpinNumbersDisplayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:48:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Constants\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Constants\\GameConstants.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Constants\\GameConstants.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Constants\\GameConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:42:20.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ButtonManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAADrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:32:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpinManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\SpinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SpinManager.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\SpinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SpinManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswDkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:04:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WheelSlot.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\WheelSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Displayers\\WheelSlot.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\WheelSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Displayers\\WheelSlot.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:51:48.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\Controller.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\Controller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:03:12.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WheelManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\WheelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\WheelManager.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Managers\\WheelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\WheelManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:27:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCard.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\ItemCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Displayers\\ItemCard.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\ItemCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Displayers\\ItemCard.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:37:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Objects\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Item.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Objects\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:27:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WheelDisplayer.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\WheelDisplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Displayers\\WheelDisplayer.cs",
+              "ToolTip": "C:\\Users\\selim\\Desktop\\games\\Dream_Games\\Vertigo_Case_Study\\Assets\\Scripts\\Displayers\\WheelDisplayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Displayers\\WheelDisplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:43:08.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
